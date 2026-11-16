@@ -1,76 +1,62 @@
 <div align="center">
-  <img src="assets/hero-dark.svg" alt="Teguh Nugratama Dayuza — Full-Stack Developer" width="100%" />
+  <img src="assets/hero.svg" width="100%" alt="just code" />
 </div>
 
-<div align="center">
-  <a href="https://yuza.vercel.app"><img src="https://img.shields.io/badge/Portfolio-yuza.vercel.app-0B0B12?style=flat-square&logo=vercel&logoColor=7CFC4B" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/teguh-dayuza"><img src="https://img.shields.io/badge/LinkedIn-Teguh%20Dayuza-0B0B12?style=flat-square&logo=linkedin&logoColor=7CFC4B" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/dayuza_"><img src="https://img.shields.io/badge/Instagram-@dayuza_-0B0B12?style=flat-square&logo=instagram&logoColor=7CFC4B" alt="Instagram" /></a>
-  <a href="https://x.com/dayuza_"><img src="https://img.shields.io/badge/X-@dayuza_-0B0B12?style=flat-square&logo=x&logoColor=7CFC4B" alt="X" /></a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=dayuza&label=profile%20views&color=0B0B12&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/dayuza?label=followers&style=flat-square&color=0B0B12" alt="Followers" />
-</div>
+---
 
-## About
+<h1 align="center">Hi 👋, I'm Teguh Nugratama Dayuza</h1>
+<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Just code. Keep learning.</h3>
 
-I'm a full-stack developer based in Indonesia. I build web applications with **CodeIgniter & PHP** and mobile apps with **Kotlin**, with a soft spot for clean architecture, readable code, and interfaces that feel effortless.
-
-I started with Java back in college, fell in love with JavaScript and C++ along the way, and never really stopped learning. Right now I'm sharpening my Kotlin and TypeScript, one small project at a time.
-
-Lately I've been building a school attendance and academic platform — QR-based check-ins, teaching schedules, and grade books — which taught me more about real-world data modeling than any tutorial ever did.
-
-```ts
-const teguh = {
-  role: "Full-Stack Developer",
-  location: "Indonesia",
-  languages: ["Java", "Kotlin", "JavaScript", "TypeScript", "C++", "PHP"],
-  focus: ["clean architecture", "developer experience", "UI details"],
-  currentlyLearning: ["Kotlin", "TypeScript"],
-  openTo: "collaboration on products that solve real problems",
-} as const;
-```
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,cpp,php,html,css,bootstrap,tailwind,mysql,nodejs,git,github,figma,postman&theme=dark&perline=8" alt="Tech stack" />
-  <br/><br/>
-  <sub><b>Also working with:</b> CodeIgniter 4 · REST APIs · MySQL · Linux · VS Code</sub>
-</div>
-
-## Selected Work
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[yuza](https://github.com/dayuza/yuza)** &nbsp;·&nbsp; [live](https://yuza.vercel.app) | Personal portfolio — where the craft is on display | `TypeScript` |
-| **[Stock-Manager](https://github.com/dayuza/Stock-Manager)** | Inventory management app for tracking stock in real time | `Kotlin` |
-| **[Aplikasi-Pegawai](https://github.com/dayuza/Aplikasi-Pegawai)** | Employee management system that simplifies daily admin work | `PHP` |
-| **[ToDoList](https://github.com/dayuza/ToDoList)** | Lightweight task manager built around a clean workflow | `Java` |
-| **[dark](https://github.com/dayuza/dark)** &nbsp;·&nbsp; [live](https://dayuza.github.io/dark) | Dark-mode toggle UI experiment built with pure CSS | `CSS` |
-
-## GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dayuza&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dayuza&theme=github_dark" alt="Top languages by commit" />
-  <img width="100%" src="https://streak-stats.demolab.com?user=dayuza&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dayuza&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity" />
-</div>
-
-## Connect
-
-<div align="center">
-
-<p>
-  <a href="https://yuza.vercel.app">Website</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/teguh-dayuza">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/dayuza_">Instagram</a> &nbsp;·&nbsp;
-  <a href="https://x.com/dayuza_">X</a>
+<p align="center">
+  Building reliable web and mobile products with clean architecture and a sharp eye for detail.
 </p>
 
-<sub>"Never stop doing your best — just because someone doesn't give you credit."</sub>
-<br/>
-<sub>Thanks for stopping by. Let's build something good.</sub>
+---
 
-</div>
+<h3 align="center">🚀 About Me</h3>
+
+<img align="right" width="33%" src="assets/about.svg" alt="About terminal" />
+
+I'm **Teguh Nugratama Dayuza**, a full-stack developer based in **Indonesia**. I build web applications with **CodeIgniter & PHP** and mobile apps with **Kotlin**, and I care about clean architecture, readable code, and interfaces that feel effortless.
+
+I started with **Java** in college, fell in love with **JavaScript** and **C++**, and never really stopped learning. Right now I'm sharpening my **Kotlin** and **TypeScript**, one small project at a time.
+
+Lately I've been building a **school attendance and academic platform** — QR-based check-ins, teaching schedules, and grade books. My goal is simple: **write clean code and build systems that last.**
+
+<br clear="right" />
+
+---
+
+<h3 align="center">🤝 Connect</h3>
+
+<p align="center">
+  <a href="https://github.com/dayuza"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/teguh-dayuza"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/dayuza_"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" /></a>
+  <a href="https://x.com/dayuza_"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X" /></a>
+</p>
+
+---
+
+<h3 align="center">💻 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,cpp,php,html,css,bootstrap,tailwind,mysql,nodejs,git,github,figma,postman&theme=dark&perline=8" alt="Tech stack" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img width="62%" src="https://streak-stats.demolab.com?user=dayuza&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</p>
+
+---
+
+<h3 align="center">📈 Activity Graph</h3>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dayuza&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+</p>

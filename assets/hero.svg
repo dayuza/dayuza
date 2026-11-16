@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="480" viewBox="0 0 1500 480" role="img" aria-label="just code">
+  <defs>
+    <pattern id="dots" width="7" height="7" patternUnits="userSpaceOnUse">
+      <circle cx="3.5" cy="3.5" r="1.05" fill="#FFFFFF"/>
+    </pattern>
+
+    <linearGradient id="glyphFade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.55" stop-color="#C9C9C9"/>
+      <stop offset="1" stop-color="#4A4A4A"/>
+    </linearGradient>
+
+    <mask id="glyphMask">
+      <rect width="1500" height="480" fill="#000000"/>
+      <text x="175" y="352" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace" font-size="300" font-weight="700" fill="url(#glyphFade)" letter-spacing="-12">&lt;/&gt;</text>
+    </mask>
+
+    <radialGradient id="softGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1500" height="480" fill="#08080A"/>
+  <ellipse cx="1090" cy="240" rx="430" ry="260" fill="url(#softGlow)"/>
+
+  <rect width="1500" height="480" fill="url(#dots)" mask="url(#glyphMask)"/>
+
+  <!-- wireframe window -->
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5">
+    <rect x="820" y="112" width="540" height="256"/>
+    <line x1="820" y1="152" x2="1360" y2="152" stroke-opacity="0.22"/>
+    <circle cx="842" cy="132" r="4" stroke-opacity="0.55"/>
+    <circle cx="860" cy="132" r="4" stroke-opacity="0.35"/>
+    <circle cx="878" cy="132" r="4" stroke-opacity="0.2"/>
+    <line x1="985" y1="262" x2="1205" y2="262" stroke-opacity="0.2" stroke-dasharray="3 7"/>
+  </g>
+
+  <g fill="#FFFFFF" font-family="'Cascadia Code', 'Fira Code', Consolas, monospace">
+    <text x="1340" y="137" text-anchor="end" font-size="12" fill-opacity="0.35">index.ts</text>
+    <text x="1082" y="242" text-anchor="middle" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="36" font-weight="600" letter-spacing="10" fill-opacity="0.92">JUST CODE</text>
+    <rect x="1222" y="216" width="2" height="30" fill-opacity="0.75"/>
+    <text x="845" y="344" font-size="12" fill-opacity="0.30">// build · ship · learn</text>
+  </g>
+
+  <!-- selection handles -->
+  <g fill="#08080A" stroke="#FFFFFF" stroke-opacity="0.75" stroke-width="1.5">
+    <rect x="816" y="108" width="8" height="8"/>
+    <rect x="1356" y="108" width="8" height="8"/>
+    <rect x="816" y="364" width="8" height="8"/>
+    <rect x="1356" y="364" width="8" height="8"/>
+  </g>
+</svg>
