@@ -1,90 +1,103 @@
-<div align="center">
-  <img src="assets/hero.svg" width="100%" alt="just code" />
-</div>
-
----
+<p align="center">
+  <img src="./assets/hero.svg" alt="Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Teguh Nugratama Dayuza</h1>
 
-<p align="center"><b>Full-Stack Developer</b></p>
+<h3 align="center">Full-Stack Developer</h3>
 
-<p align="center"><code>Just code. Keep learning.</code></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=780&height=60&lines=+%3E+Just+Code.+Keep+Learning.;+%3E+Build+Clean+Architectures;+%3E+PHP+%C2%B7+Kotlin+%C2%B7+TypeScript;+%3E+If+It+Ships%2C+It%27s+Staying" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Building reliable web and mobile products with clean architecture and a sharp eye for detail.
 </p>
 
----
+## <h2 align="center">🚀 About Me </h2>
 
-<h3 align="center">🚀 About Me</h3>
+<img align="right" src="./assets/about.svg" width="280" alt="Developer Illustration"/>
 
-<table>
-  <tr>
-    <td valign="top" width="58%">
+**Dayuza** — a full-stack developer from Indonesia focused on building products people actually use.
 
-I'm **Teguh Nugratama Dayuza**, a full-stack developer based in **Indonesia**. I build web applications with **CodeIgniter & PHP** and mobile apps with **Kotlin**, and I care about clean architecture, readable code, and interfaces that feel effortless.
+I build web applications with **CodeIgniter & PHP** and mobile apps with **Kotlin**, and I care about clean architecture, readable code, and interfaces that feel effortless.
 
-I started with **Java** in college, fell in love with **JavaScript** and **C++**, and never really stopped learning. Right now I'm sharpening my **Kotlin** and **TypeScript**, one small project at a time.
+I started with **Java** in college, fell in love with **JavaScript** and **C++**, and never really stopped learning.
 
-Lately I've been building a **school attendance and academic platform** — QR-based check-ins, teaching schedules, and grade books. My goal is simple: **write clean code and build systems that last.**
+Lately I've been building a **school attendance and academic platform** — QR-based check-ins, teaching schedules, and grade books — while sharpening my **Kotlin** and **TypeScript**.
 
-    </td>
-    <td valign="top" width="42%" align="center">
+My goal is simple: write clean code, build reliable software, and grow into a developer who creates systems that last.
 
-<img src="assets/about.svg" width="100%" alt="About terminal" />
+<br clear="right"/>
 
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">🤝 Connect</h3>
+<h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/dayuza"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="42" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/teguh-dayuza"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="42" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/dayuza_"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="42" alt="Instagram" /></a>
-  <a href="https://x.com/dayuza_"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="42" alt="X" /></a>
+  <a href="https://github.com/dayuza">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/teguh-dayuza">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/dayuza_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/dayuza_">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
 </p>
 
----
-
-<h3 align="center">💻 Tech Stack</h3>
+<h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,codeigniter,mysql,js,ts,nodejs&theme=dark&perline=6" alt="Web stack" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,cpp,html,css,bootstrap,tailwind&theme=dark&perline=8" alt="Mobile & tools" />
+  <img src="https://skillicons.dev/icons?i=php,kotlin,java,js,ts,cpp,mysql,nodejs,html,css,bootstrap,tailwind" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark&perline=4" alt="Workflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="48" alt="CodeIgniter" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="48" alt="Android Studio" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman" />
 </p>
 
----
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dayuza&theme=city_lights&hide_border=false&border_radius=5" height="150"/>
+
+</div>
+
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img width="72%" src="https://streak-stats.demolab.com?user=dayuza&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dayuza&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16" alt="Activity Graph"/>
 </p>
+
+<h2 align="center">⌘ Commit Activity</h2>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dayuza&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=8B949E&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayuza&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&langs_count=6" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayuza/dayuza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayuza/dayuza/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/dayuza/dayuza/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph">
+  </picture>
 </p>
 
----
-
-<h3 align="center">📈 Activity Graph</h3>
+<h2 align="center">⌘ Philosophy</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dayuza&theme=github-compact&bg_color=0D1117&color=FFFFFF&line=8B949E&point=FFFFFF&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
-
----
-
-<p align="center"><sub><i>“Write clean code, ship real products.”</i></sub></p>
