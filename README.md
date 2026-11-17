@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+  <img src="assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Teguh Nugratama Dayuza</h1>
